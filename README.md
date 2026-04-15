@@ -1,37 +1,60 @@
 # 📊 Retail Sales Analysis | SITER Norway Internship
 
-This project was completed as part of my virtual internship at **SITER Norway**, where I analyzed retail sales data to extract actionable business insights.
+This project was completed during my **virtual internship at SITER Norway**, where I performed end-to-end retail data analysis using multiple datasets to generate actionable business insights.
 
 ---
 
-## 🔹 Objective
-- Analyze sales trends and patterns  
-- Identify top-performing products  
-- Understand customer behavior  
+## 🔹 Dataset Overview
+The project uses 5 interconnected datasets:
+- Customers  
+- Products  
+- Sales  
+- Inventory  
+- Stores  
+
+---
+
+## 🔹 What I Did
+- Data cleaning & transformation  
+- Database setup using XAMPP (MySQL)  
+- Exploratory Data Analysis (EDA)  
+- Data visualization & reporting  
+- Created data dictionary  
 
 ---
 
 ## 🔹 Tools Used
 - Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- Power BI  
-- Excel  
+- MySQL (XAMPP)  
+- Power BI / Excel  
 
 ---
 
-## 🔹 Key Insights
-- Discovered peak sales periods and seasonal trends  
-- Identified high revenue-generating categories  
-- Improved decision-making with data-driven insights (~15–20%)  
+## 🔹 Key Outputs
+- 📈 Sales & trend visualizations  
+- 📊 Business insights report  
+- 🧾 Data dictionary  
+- 🖼️ Screenshots of data cleaning & DB setup  
 
 ---
 
-## 🔹 Dashboard
-![Dashboard Preview](images/dashboard_preview.png)
+## 🔹 Dashboard Preview
+![Dashboard](images/dashboard_preview.png)
+
+---
+
+## 🔹 Team & Contributions
+- **M. Sushmitha** – Database & Data Engineer  
+- **Afroz Mohammad** – Data Cleaning & Transformation  
+- **Mohammad Sadhik Pasha** – Sales & Revenue Analyst  
+- **Divvela Abhilash** – Customer & Marketing Analyst  
+- **Amarlapudi Karunya Keerthan** – Inventory & Operations Analyst  
+- **Kajampuram Sreenija** – Dashboard Architect & QA  
 
 ---
 
 ## 🔹 Outcome
-Built an interactive dashboard and delivered insights simulating real-world retail decision-making.
+Delivered actionable insights by integrating multiple datasets and simulating real-world retail business decision-making.
 
 ---
 
