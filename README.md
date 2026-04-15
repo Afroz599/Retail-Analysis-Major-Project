@@ -34,12 +34,38 @@ The project uses 5 interconnected datasets:
 - 📈 Sales & trend visualizations  
 - 📊 Business insights report  
 - 🧾 Data dictionary  
-- 🖼️ Screenshots of data cleaning & DB setup  
+- 🖼️ Screenshots of data cleaning & DB setup
+
+---
+retail-sales-analysis-siter-internship/
+│
+├── dashboard/
+│   ├── customer_analytics.png
+│   ├── inventory_operations.png
+│   ├── product_performance.png
+│   ├── sales_performance.png
+│   └── store_regional_analysis.png
+│
+├── database/
+│   ├── er_diagram.png
+│   ├── retail_db.png
+│   └── phpadmin_interface.png
+│
+├── notebooks/
+│   └── data_cleaning_retail_db.ipynb
+│
+├── reports/
+│   └── retail_analytics_report.docx
+│
+├── docs/
+│   └── retail_analytics_data_dictionary.xlsx
+│
+├── README.md
 
 ---
 
 ## 🔹 Dashboard Preview
-![Dashboard](images/dashboard_preview.png)
+![Dashboard](Dashboard-Outputs/Executive-Summary.png)
 
 ---
 
